@@ -1,1 +1,1 @@
-select id, concat(number, ' ', street) as address, city_id from addresses where id >= 20;
+SELECT id, CONCAT(number, ' ', street) AS address, city_id FROM addresses WHERE id >= 20;

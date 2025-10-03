@@ -1,1 +1,1 @@
-select distinct name, area as area_km2 from cities order by name desc;
+SELECT DISTINCT name, area AS area_km2 FROM cities ORDER BY name DESC;

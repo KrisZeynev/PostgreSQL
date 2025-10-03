@@ -1,1 +1,1 @@
-select concat(name, ' ', state) as cities_information, area as area_km2 from cities;
+SELECT CONCAT(name, ' ', state) AS cities_information, area AS area_km2 FROM cities;

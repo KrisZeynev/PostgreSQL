@@ -1,1 +1,1 @@
-select id, name, state, area from cities order by id;
+SELECT id, name, state, area FROM cities ORDER BY id;
